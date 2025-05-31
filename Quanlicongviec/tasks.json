@@ -1,0 +1,47 @@
+[
+    {
+        "task_id": 1,
+        "username": "nhan",
+        "title": "Học bài",
+        "description": "Ôn tập kiến thức cho bài kiểm tra sắp tới",
+        "priority": "Trung bình",
+        "start_date": "31-05-2025",
+        "due_date": "12-06-2025"
+    },
+    {
+        "task_id": 2,
+        "username": "nhan",
+        "title": "Làm đồ án Python",
+        "description": "Hoàn thành đồ án trước hạn",
+        "priority": "Trung bình",
+        "start_date": "31-05-2025",
+        "due_date": "1-6-2025"
+    },
+    {
+        "task_id": 3,
+        "username": "nhan",
+        "title": "Đi du lich trong kỳ nghỉ",
+        "description": "Chuẩn bị những vật dụng cần thiết",
+        "priority": "Trung bình",
+        "start_date": "31-05-2025",
+        "due_date": "12-06-2025"
+    },
+    {
+        "task_id": 4,
+        "username": "nhan",
+        "title": "Don dẹp thư mục máy tính",
+        "description": "Xóa các file không cần thiết và sắp xếp lại thư mục học tập",
+        "priority": "Trung bình",
+        "start_date": "31-05-2025",
+        "due_date": "06-06-2026"
+    },
+    {
+        "task_id": 5,
+        "username": "nhan",
+        "title": "Đi mua sắm",
+        "description": "Cần mua những vật dụng cần thiết",
+        "priority": "Trung bình",
+        "start_date": "31-05-2025",
+        "due_date": "06-06-2025"
+    }
+]
