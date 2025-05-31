@@ -8,6 +8,7 @@ Một ứng dụng desktop đơn giản giúp bạn quản lý danh sách công 
     * Đăng ký tài khoản mới.
     * Đăng nhập an toàn với mật khẩu được băm.
     * Phân quyền người dùng: Admin và User thường.
+      + Admin có tài khoản mặc định là admin và mật khẩu là admin123 và có thể câp nhật thông tin của admin và của user
     * Người dùng tự cập nhật thông tin cá nhân và mật khẩu.
     * Người dùng tự xóa tài khoản (Admin mặc định không thể tự xóa).
 * **Quản lý Công Việc (CRUD):**
