@@ -1,6 +1,6 @@
-# Ứng Dụng Quản Lý Công Việc Cá Nhân
+# Ứng Dụng Quản Lý Công Việc 
 
-Một ứng dụng desktop đơn giản giúp bạn quản lý danh sách công việc cá nhân hàng ngày, được phát triển bằng Python và thư viện Tkinter. Dữ liệu được lưu trữ cục bộ sử dụng các file JSON.
+Một ứng dụng desktop đơn giản giúp bạn quản lý danh sách công việc cá nhân trong công ty, được phát triển bằng Python và thư viện Tkinter. Dữ liệu được lưu trữ cục bộ sử dụng các file JSON.
 
 ## Tính Năng Chính
 
